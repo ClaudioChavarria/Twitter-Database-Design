@@ -1,32 +1,33 @@
 INSERT INTO social.tweet_hashtags (tweet_id, hashtag_id)
 VALUES
-    (1, 1),    -- Tweet 1 con hashtag #FirstTweet
-    (2, 2),    -- Tweet 2 con hashtag #ReadingTime
-    (3, 3),    -- Tweet 3 con hashtag #TechLife
-    (4, 4),    -- Tweet 4 con hashtag #Travel
-    (5, 5),    -- Tweet 5 con hashtag #BeachVibes
-    (6, 6),    -- Tweet 6 con hashtag #SunsetLover
-    (7, 7),    -- Tweet 7 con hashtag #FitnessGoals
-    (8, 8),    -- Tweet 8 con hashtag #EntrepreneurLife
-    (9, 9),    -- Tweet 9 con hashtag #Thankful
-    (10, 10),  -- Tweet 10 con hashtag #MotivationMonday
-    (11, 11),  -- Tweet 11 con hashtag #DeveloperLife
-    (12, 12),  -- Tweet 12 con hashtag #LiveMusic
-    (13, 13),  -- Tweet 13 con hashtag #WriterLife
-    (14, 14),  -- Tweet 14 con hashtag #TVTime
-    (15, 15),  -- Tweet 15 con hashtag #CoffeeLover
-    (16, 16),  -- Tweet 16 con hashtag #MorningExercise
-    (17, 17),  -- Tweet 17 con hashtag #FoodieAdventures
-    (18, 18),  -- Tweet 18 con hashtag #TechNews
-    (19, 19),  -- Tweet 19 con hashtag #WeekendPlans
-    (20, 20),  -- Tweet 20 con hashtag #YogaJourney
-    (21, 21),  -- Tweet 21 con hashtag #LearningEveryDay
-    (22, 22),  -- Tweet 22 con hashtag #RainyDayVibes
-    (23, 23),  -- Tweet 23 con hashtag #Grateful
-    (24, 24),  -- Tweet 24 con hashtag #GivingBack
-    (25, 25),  -- Tweet 25 con hashtag #TimeFlies
-    (26, 26),  -- Tweet 26 con hashtag #Inspiration
-    (27, 27),  -- Tweet 27 con hashtag #WorkGoals
-    (28, 28),  -- Tweet 28 con hashtag #MorningRoutine
-    (29, 29),  -- Tweet 29 con hashtag #SpaceExploration
-    (30, 30);  -- Tweet 30 con hashtag #CreativeMind
+    (1, 1),    
+    (2, 2),    
+    (3, 3),    
+    (4, 4),    
+    (5, 5),    
+    (6, 6),    
+    (7, 7),    
+    (8, 8),    
+    (9, 9),    
+    (10, 10),  
+    (11, 11),  
+    (12, 12),  
+    (13, 13),  
+    (14, 14),  
+    (15, 15), 
+    (16, 16),  
+    (17, 17),  
+    (18, 18), 
+    (19, 19),  
+    (20, 20),  
+    (21, 21),  
+    (22, 22),  
+    (23, 23),  
+    (24, 24),  
+    (25, 25),  
+    (26, 26),  
+    (27, 27),  
+    (28, 28),  
+    (29, 29),  
+    (30, 30)
+    ;  
