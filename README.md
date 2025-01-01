@@ -1,4 +1,4 @@
-# Twitter Database Project 
+# Twitter SQL Database Project
 
 
 
