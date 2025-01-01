@@ -1,0 +1,36 @@
+INSERT INTO social.followers (follower_id, following_id)
+VALUES
+(1, 2), -- John follows Jane
+(1, 3), -- John follows Mike
+(1, 4), -- John follows Anna
+(1, 5), -- John follows Susan
+(2, 1), -- Jane follows John
+(2, 4), -- Jane follows Anna
+(2, 5), -- Jane follows Susan
+(2, 6), -- Jane follows Luke
+(3, 1), -- Mike follows John
+(3, 4), -- Mike follows Anna
+(3, 5), -- Mike follows Susan
+(3, 7), -- Mike follows Emily
+(4, 5), -- Anna follows Susan
+(4, 6), -- Anna follows Luke
+(4, 7), -- Anna follows Emily
+(4, 8), -- Anna follows David
+(5, 6), -- Susan follows Luke
+(5, 7), -- Susan follows Emily
+(5, 8), -- Susan follows David
+(6, 7), -- Luke follows Emily
+(6, 8), -- Luke follows David
+(7, 8), -- Emily follows David
+(7, 9), -- Emily follows Maria
+(8, 9), -- David follows Maria
+(8, 10), -- David follows Andrew
+(9, 10), -- Maria follows Andrew
+(9, 11), -- Maria follows Olivia
+(10, 11), -- Andrew follows Olivia
+(10, 12), -- Andrew follows Daniel
+(11, 12), -- Olivia follows Daniel
+(12, 13), -- Daniel follows Claire
+(13, 14), -- Claire follows Jackson
+(14, 15), -- Jackson follows Grace
+(15, 1); -- Grace follows John
