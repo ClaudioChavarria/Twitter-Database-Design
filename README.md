@@ -84,6 +84,9 @@ Twitter Database Project
         └── terminate_connections.sql
 ```
 
+## Database Diagram
+
+![alt text](image.png)
 
 ## Contributing 💡
 
